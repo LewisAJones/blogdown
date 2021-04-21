@@ -1,14 +1,14 @@
 {
-    "id": "69652504",
-    "path": "~/GitHub/blogdown/config/_default/languages.yaml",
-    "project_path": "config/_default/languages.yaml",
-    "type": "yaml",
-    "hash": "0",
+    "id": "4456D434",
+    "path": "~/GitHub/blogdown/content/home/posts.md",
+    "project_path": "content/home/posts.md",
+    "type": "markdown",
+    "hash": "967492933",
     "contents": "",
     "dirty": false,
-    "created": 1619006154250.0,
+    "created": 1619007329051.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
