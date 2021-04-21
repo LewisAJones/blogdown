@@ -1,26 +1,26 @@
 {
-    "id": "9D13C967",
-    "path": "~/GitHub/blogdown/content/authors/admin/_index.md",
-    "project_path": "content/authors/admin/_index.md",
+    "id": "17F65EBD",
+    "path": "~/GitHub/blogdown/content/home/hero.md",
+    "project_path": "content/home/hero.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1618994842721.0,
+    "created": 1619002939259.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "23,16",
-        "scrollLine": "12"
+        "cursorPosition": "3,13",
+        "scrollLine": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1619000000,
+    "lastKnownWriteTime": 1618997846,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1619000000866,
+    "last_content_update": 1618997846,
     "read_only": false,
     "read_only_alternatives": []
 }
