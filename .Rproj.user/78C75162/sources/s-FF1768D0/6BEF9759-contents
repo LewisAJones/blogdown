@@ -1,0 +1,23 @@
+---
+title: Hello World – Introducing 500 words or less
+author: Lewis A. Jones
+date: '2021-04-21'
+slug: hello-world-introducing-500-words-or-less
+categories:
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-04-21T12:13:39+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+<script src="{{< blogdown/postref >}}index.en_files/header-attrs/header-attrs.js"></script>
+
+
+<p>Scientific concepts are often inaccessible to the general public.</p>
