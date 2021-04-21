@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fieldwork | Lewis A. Jones</title>
+    <link>www.lewisajones.com/fieldwork/</link>
+      <atom:link href="www.lewisajones.com/fieldwork/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fieldwork</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/www.lewisajones.com/media/icon_hu02d5d7f908b7573053a8fe9eec829fda_11854_512x512_fill_lanczos_center_2.png</url>
+      <title>Fieldwork</title>
+      <link>www.lewisajones.com/fieldwork/</link>
+    </image>
+    
+  </channel>
+</rss>

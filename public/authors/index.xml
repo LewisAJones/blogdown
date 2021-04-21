@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Lewis A. Jones</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.lewisajones.com/authors/</link>
+      <atom:link href="www.lewisajones.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.lewisajones.com/media/icon_hu02d5d7f908b7573053a8fe9eec829fda_11854_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>www.lewisajones.com/authors/</link>
     </image>
     
   </channel>

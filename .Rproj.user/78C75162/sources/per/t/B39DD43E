@@ -1,0 +1,26 @@
+{
+    "id": "B39DD43E",
+    "path": "~/GitHub/blogdown/config/_default/menus.yaml",
+    "project_path": "config/_default/menus.yaml",
+    "type": "yaml",
+    "hash": "310795978",
+    "contents": "",
+    "dirty": false,
+    "created": 1619007367697.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,13",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1619007374,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1619007374524,
+    "read_only": false,
+    "read_only_alternatives": []
+}
