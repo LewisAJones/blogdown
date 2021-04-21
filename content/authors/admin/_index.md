@@ -22,7 +22,7 @@ role: Palaeobiology & Macroecology
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:lewisa.jones@outlook.com
 - display:
     header: true
   icon: twitter
