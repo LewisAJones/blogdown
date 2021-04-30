@@ -29,9 +29,9 @@ body {
 text-align: justify}
 </style>
 
-One of the most prominent macroecological patterns on Earth today is the latitudinal biodiversity gradient. This gradient is broadly defined as unimodal, with species richness decreasing from the tropics towards the poles (Hillebrand, 2004). The majority of extant plants and animals (e.g. corals, reef fish, foraminiferans, mammals, reptiles, and vascular plants), from both terrestrial and marine environments, conform to this unimodal biodiversity gradient (Roy et al., 1998; Hillebrand, 2004; Field et al., 2009; Krug et al., 2009; Kiessling et al., 2012; Willig and Presley, 2018), and it has been described as Earth’s first-order biodiversity pattern(Krug et al., 2009). However, while the latitudinal biodiversity gradient is evidently a pervasive pattern across most taxa today, not all groups conform to this gradient. For example, biodiversity peaks outside of the tropics for some taxonomic groups (e.g. parasites, aquatic flora, marine birds and mammals) (Chown et al., 1998; Procheş, 2001; Wiens, 2007; Tittensor et al., 2010; Willig and Presley, 2018), diverging from the expected unimodal-type gradient. Interestingly, reconstructions of the latitudinal biodiversity gradient using the fossil record also suggest that the shape and strength of this gradient have varied considerable over geological timescales (Mannion et al., 2014)…more on that later.
+One of the most prominent macroecological patterns on Earth today is the latitudinal biodiversity gradient. This gradient is broadly defined as unimodal, with species richness decreasing from the tropics towards the poles (Hillebrand, 2004). The majority of extant plants and animals (e.g. corals, reef fish, foraminiferans, mammals, reptiles, and vascular plants), from both terrestrial and marine environments, conform to this unimodal biodiversity gradient (Roy et al., 1998; Hillebrand, 2004; Field et al., 2009; Krug et al., 2009; Kiessling et al., 2012; Willig and Presley, 2018). It has also been previously described as Earth’s first-order biodiversity pattern (Krug et al., 2009). However, while the latitudinal biodiversity gradient is evidently a pervasive pattern across most taxa today, not all groups conform to this gradient. For example, biodiversity peaks outside of the tropics for some taxonomic groups (e.g. parasites, aquatic flora, marine birds and mammals) (Chown et al., 1998; Procheş, 2001; Wiens, 2007; Tittensor et al., 2010; Willig and Presley, 2018), diverging from the expected unimodal-type gradient. Interestingly, reconstructions of the latitudinal biodiversity gradient using the fossil record also suggest that the shape and strength of this gradient have varied considerable over geological timescales (Mannion et al., 2014) …more on that later.
 
-The latitudinal biodiversity gradient was first described by Baron Alexander von Humboldt based on his research on South and Central American plants (1799–1804). He published his work under the title of ‘Ansichten der Natur’ (Aspects of Nature), in which he stated(Hawkins, 2001):
+The latitudinal biodiversity gradient was first described by Baron Alexander von Humboldt based on his research on South and Central American plants (1799–1804). He published his work under the title of ‘Ansichten der Natur’ (Aspects of Nature), in which he stated (Hawkins, 2001):
 
 *“Thus, the nearer we approach the tropics, the greater the increase in the variety of structure, grace of form, and mixture of colours, as also in perpetual youth and vigour of organic life.”*
 
@@ -43,7 +43,7 @@ Evidently, the latitudinal biodiversity gradient will remain an active and excit
 
 ## **References**
 
-<font size="2">
+<font size="4">
 
 ---
 nocite: '@*'
