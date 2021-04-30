@@ -1,0 +1,51 @@
+---
+title: The latitudinal biodiversity gradient
+author: Lewis A. Jones
+date: '2021-04-30'
+slug: the-latitudinal-biodiversity-gradient
+bibliography: [bibliography.bib]
+link-citations: true
+categories: []
+tags: []
+subtitle: ''
+summary: 'One of the most prominent macroecological patterns on Earth today.'
+authors: []
+lastmod: '2021-04-30T13:11:34+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+<style>
+body {
+text-align: justify}
+</style>
+
+One of the most prominent macroecological patterns on Earth today is the latitudinal biodiversity gradient. This gradient is broadly defined as unimodal, with species richness decreasing from the tropics towards the poles (Hillebrand, 2004). The majority of extant plants and animals (e.g. corals, reef fish, foraminiferans, mammals, reptiles, and vascular plants), from both terrestrial and marine environments, conform to this unimodal biodiversity gradient (Roy et al., 1998; Hillebrand, 2004; Field et al., 2009; Krug et al., 2009; Kiessling et al., 2012; Willig and Presley, 2018), and it has been described as Earth’s first-order biodiversity pattern(Krug et al., 2009). However, while the latitudinal biodiversity gradient is evidently a pervasive pattern across most taxa today, not all groups conform to this gradient. For example, biodiversity peaks outside of the tropics for some taxonomic groups (e.g. parasites, aquatic flora, marine birds and mammals) (Chown et al., 1998; Procheş, 2001; Wiens, 2007; Tittensor et al., 2010; Willig and Presley, 2018), diverging from the expected unimodal-type gradient. Interestingly, reconstructions of the latitudinal biodiversity gradient using the fossil record also suggest that the shape and strength of this gradient have varied considerable over geological timescales (Mannion et al., 2014)…more on that later.
+
+The latitudinal biodiversity gradient was first described by Baron Alexander von Humboldt based on his research on South and Central American plants (1799–1804). He published his work under the title of ‘Ansichten der Natur’ (Aspects of Nature), in which he stated(Hawkins, 2001):
+
+*“Thus, the nearer we approach the tropics, the greater the increase in the variety of structure, grace of form, and mixture of colours, as also in perpetual youth and vigour of organic life.”*
+
+Moreover, von Humboldt went one step further in his Ansichten der Natur and proposed a potential driver of the latitudinal biodiversity gradient: climate. Whilst research on the latitudinal biodiversity gradient has continued over the past two centuries, the causal mechanisms of this macroecological pattern are still heavily debated, with over 30 hypotheses proposed to explain the presence of the latitudinal biodiversity gradient (Hawkins, 2001; Willig and Presley, 2018) (though climate is still often considered a primary driver e.g. Saupe et al., 2019).  Ultimately, the latitudinal biodiversity gradient is explained by greater net diversification rates (i.e. speciation rate minus extinction rate) in the tropics than other regions (though perhaps complicated by dispersal into and out of the tropics). However, the causal mechanism(s) of this latitudinal difference in net diversification rates remains ambiguous. This is perhaps due to the desire to point at a single causal mechanism, when in fact, mutually reinforcing drivers are shaping the latitudinal biodiversity gradient (Jablonski et al., 2017).
+
+The fossil record provides a unique perspective on understanding the evolution and drivers of the latitudinal biodiversity gradient. Specifically, it provides empirical evidence on how the distribution of biodiversity responded to drivers, such as climate change, over geological timescales. Interestingly, studies based on fossil occurrence data suggest that unimodal-type latitudinal biodiversity gradients are restricted to the Palaeozoic, and the past 30 million years, during cold icehouse climatic regimes (Mannion et al., 2014). During warmer intervals (i.e. greenhouse climates), flattened and bimodal gradients, as well as temperate peaks in biodiversity, have been recognised for a range of taxonomic groups (Mannion et al., 2014). However, it should be noted that recent work has highlighted issues with reconstructing latitudinal biodiversity gradients from fossil occurrence data due to differences in latitudinal sampling (i.e. preferential sampling towards certain latitudes) and data absence (Jones et al., 2021). 
+
+Evidently, the latitudinal biodiversity gradient will remain an active and exciting area of research over the decades to come.
+
+## **References**
+
+<font size="2">
+
+---
+nocite: '@*'
+---
+
