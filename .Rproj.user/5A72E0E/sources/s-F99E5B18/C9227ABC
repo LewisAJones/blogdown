@@ -1,24 +1,24 @@
 {
-    "id": "66B855D6",
+    "id": "C9227ABC",
     "path": "~/GitHub/blogdown/content/authors/admin/_index.md",
     "project_path": "content/authors/admin/_index.md",
     "type": "markdown",
-    "hash": "1009702159",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
-    "created": 1626096660214.0,
+    "dirty": true,
+    "created": 1626097280560.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
-        "cursorPosition": "45,190",
-        "scrollLine": "20"
+        "cursorPosition": "9,14",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1626096854,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1626096854746,
+    "last_content_update": 1626097311875,
     "read_only": false,
     "read_only_alternatives": []
 }
