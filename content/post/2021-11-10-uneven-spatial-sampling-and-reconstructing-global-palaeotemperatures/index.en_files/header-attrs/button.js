@@ -38,7 +38,7 @@ function change(lang_on, lang_off1, lang_off2) {
     change_text.innerHTML = "The text here will change";
   }
   
-  else if (lang_on.innerHTML == "中文") {
+  else if (lang_on.innerHTML == "ESP") {
     change_text.classList.add("spanish");
     // first line adds the corrent language class to the text
     change_text.classList.remove("english");
@@ -49,7 +49,7 @@ function change(lang_on, lang_off1, lang_off2) {
     // fourth line is where you key in the text that will replace what is currently on-screen
   }
   
-  else if (lang_on.innerHTML == "日本語") {
+  else if (lang_on.innerHTML == "DEU") {
     change_text.classList.add("german");
     change_text.classList.remove("english");
     change_text.classList.remove("spanish");
