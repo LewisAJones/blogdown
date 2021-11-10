@@ -39,6 +39,15 @@ experience:
     date_start: '2016-08-01'
     date_end: '2020-09-01'
     description:
+    
+  - title: MPhysGeog in Physical Geography
+    company: University of Hull
+    company_url: 'https://www.hull.ac.uk/'
+    company_logo: hull
+    location: Hull, United Kingdom
+    date_start: '2011-09-30'
+    date_end: '2015-07-01'
+    description:
 
 design:
   columns: '2'
