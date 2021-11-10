@@ -20,16 +20,6 @@ image:
 projects: []
 ---
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
-
-<style>
-body {
-text-align: justify}
-</style>
-
 <div class="demo">
   <div>
     <table class="lang">
@@ -46,6 +36,16 @@ text-align: justify}
     </div>
   </div>
 </div>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+<style>
+body {
+text-align: justify}
+</style>
 
 <a href="https://keichenseer.netlify.app/">Kilian Eichenseer</a> and I had a new paper out this week looking at uneven spatial sampling in the isotope record of &delta;<sup>18</sup>O. For this blog post, I've put together a brief summary of why we decided to investigate this, and our findings.
 
