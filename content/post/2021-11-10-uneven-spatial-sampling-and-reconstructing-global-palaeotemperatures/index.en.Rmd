@@ -20,6 +20,10 @@ image:
 projects: []
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
 <div class="demo">
   <div>
     <table class="lang">
@@ -37,10 +41,7 @@ projects: []
   </div>
 </div>
 
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
+testing
 
 <style>
 body {
