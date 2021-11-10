@@ -41,7 +41,7 @@ In our recent study, we tested the impact of the changing distribution of sampli
 
 ![](/Users/lewis/Documents/GitHub/blogdown/content/post/2021-11-10-uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures/abstract.png)
 
-<p style="line-height:1">
+<p style="line-height:3">
 
 <font size="4">
 
