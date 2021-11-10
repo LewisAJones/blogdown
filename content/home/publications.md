@@ -52,7 +52,7 @@ content:
 
 1. **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison. (2019) Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. [View here.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111)
 
-1. Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison. (2019) Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1).[View here.](https://www.nature.com/articles/s41467-019-08997-2)
+1. Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison. (2019) Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1), 1--14. [View here.](https://www.nature.com/articles/s41467-019-08997-2)
 
 ## **Theses**
 
