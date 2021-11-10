@@ -29,6 +29,8 @@ body {
 text-align: justify}
 </style>
 
+test
+
 <a href="https://keichenseer.netlify.app/">Kilian Eichenseer</a> and I had a new paper out this week looking at uneven spatial sampling in the isotope record of &delta;<sup>18</sup>O. For this blog post, I've put together a brief summary of why we decided to investigate this, and our findings.
 
 Continue in <a href="https://raw.githubusercontent.com/LewisAJones/blogdown/main/content/post/2021-11-10-uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures/espanol.txt">Español</a> or <a href="https://raw.githubusercontent.com/LewisAJones/blogdown/main/content/post/2021-11-10-uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures/deutsch.txt">Deutsch</a>? 
