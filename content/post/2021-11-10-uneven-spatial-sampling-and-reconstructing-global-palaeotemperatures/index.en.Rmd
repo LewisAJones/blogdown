@@ -32,7 +32,7 @@ text-align: justify}
 
 <a href="https://keichenseer.netlify.app/">Kilian Eichenseer</a> and I had a new paper out this week looking at uneven spatial sampling in the isotope record of &delta;<sup>18</sup>O. For this blog post, I've put together a brief summary of why we decided to investigate this, and our findings.
 
-Read in <a href="/Users/lewis/Documents/GitHub/blogdown/content/post/2021-11-10-uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures/index.esp.html">español</a> 
+Continue in <a href="https://github.com/LewisAJones/blogdown/blob/main/content/post/2021-11-10-uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures/index.esp.html">español</a> 
 
 Human activity is rapidly altering Earth’s climate system, pushing it towards an historically unprecedented warm state. Over the next century, global warming is expected to have dramatic consequences for Earth’s biodiversity and human livelihood. While no historical analogue of projected global warming exists, Earth’s geological record provides a vast archive of past climate change, spanning hundreds of millions of years. This archive documents a wide range of global cooling and warming events, and their effect on ecosystems, providing critical context for understanding past, current, and future climate change.
 
