@@ -31,7 +31,7 @@ html, body {
   display: inline-block;
   padding: 0.25em 0em;
   border-radius: 10px;
-  width: 5em;
+  width: 10em;
   transition: 0.25s ease;
 }
 
@@ -46,7 +46,7 @@ html, body {
 
 .translation {
   text-align: center;
-  margin: 0.5em;
+  margin: 1em;
 }
 
 .english {
@@ -55,7 +55,7 @@ html, body {
 
 .spanish {
   font-family: "Noto Sans SC", sans-serif;
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 .german {
