@@ -1,5 +1,5 @@
 ---
-title: Uneven spatial sampling and reconstructing global palaeotemperatures
+title: Uneven spatial sampling and reconstructing past global temperatures
 author: Lewis A. Jones
 date: '2021-11-10'
 slug: uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures
