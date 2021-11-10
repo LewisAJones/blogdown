@@ -35,7 +35,7 @@ function change(lang_on, lang_off1, lang_off2) {
     change_text.classList.add("english");
     change_text.classList.remove("spanish");
     change_text.classList.remove("german");
-    change_text.innerHTML = "The text here will change";
+    change_text.innerHTML = "The text here will change!";
   }
   
   else if (lang_on.innerHTML == "ESP") {
