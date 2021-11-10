@@ -1,5 +1,5 @@
 ---
-title: Uneven spatial sampling and reconstructing past global temperatures
+title:  Uneven spatial sampling and reconstructing past global temperatures
 author: Lewis A. Jones
 date: '2021-11-10'
 slug: uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures
@@ -31,7 +31,7 @@ body {
 text-align: justify}
 </style>
 
-<a href="https://keichenseer.netlify.app/">Kilian Eichenseer</a> and I had a new paper out this week looking at uneven spatial sampling in the isotope record of &delta;<sup>18</sup>O. For this blog post, I've put together a brief summary.
+<a href="https://keichenseer.netlify.app/">Kilian Eichenseer</a> and I had a new paper out this week looking at uneven spatial sampling in the isotope record of &delta;<sup>18</sup>O. For this blog post, I've put together a brief summary of why we decided to investigate this, and our findings.
 
 Human activity is rapidly altering Earth’s climate system, pushing it towards an historically unprecedented warm state. Over the next century, global warming is expected to have dramatic consequences for Earth’s biodiversity and human livelihood. While no historical analogue of projected global warming exists, Earth’s geological record provides a vast archive of past climate change, spanning hundreds of millions of years. This archive documents a wide range of global cooling and warming events, and their effect on ecosystems, providing critical context for understanding past, current, and future climate change.
 
@@ -43,4 +43,4 @@ In our recent study, we tested the impact of the changing distribution of sampli
 
 <font size="4">
 
-**Lewis A. Jones** and Kilian Eichenseer. (2021) Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology*. [View here.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions)
+Lewis A. Jones and Kilian Eichenseer. (2021) Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology*. [View here.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions)
