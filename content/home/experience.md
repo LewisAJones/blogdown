@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Research Fellow
-    company: Universidad de Vigo
+    company: Universidade de Vigo
     company_url: 'https://www.uvigo.gal/'
     company_logo: vigo
     location: Vigo, Spain
