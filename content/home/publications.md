@@ -41,18 +41,18 @@ content:
 
 #### 2021
 
-1. **Lewis A. Jones** and Kilian Eichenseer. (2021) Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology*. [View here.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) [Graphical abstract.](https://pbs.twimg.com/media/FDyMbOZXIAYX2rp?format=jpg&name=4096x4096)
+1. **Lewis A. Jones** and Kilian Eichenseer. (2021) Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology*. [View paper.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) [View graphical abstract.](https://pbs.twimg.com/media/FDyMbOZXIAYX2rp?format=jpg&name=4096x4096)
 
 
-1. **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison. (2021) Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. [View here.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762)
+1. **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison. (2021) Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. [View paper.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) [View graphical abstract.](https://pbs.twimg.com/media/Eu-0pYiXUAEGG_A?format=jpg&name=4096x4096)
 
 1. **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Daniel J Lunt. (In review) Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications*.
 
 #### 2019
 
-1. **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison. (2019) Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. [View here.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111)
+1. **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Paul Valdes, Sarah-Jane Kelland, and Peter A. Allison. (2019) Coupling of palaeontological and neontological reef coral data improves forecasts of biodiversity responses under global climatic change. *Royal Society Open Science* 6 (4), 182111. [View paper.](https://royalsocietypublishing.org/doi/10.1098/rsos.182111)
 
-1. Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison. (2019) Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1), 1--14. [View here.](https://www.nature.com/articles/s41467-019-08997-2)
+1. Alfio Alessandro Chiarenza, Philip D. Mannion, Daniel Lunt, Alexander Farnsworth, **Lewis A. Jones**, Sarah-Jane Kelland, and Peter A. Allison. (2019) Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction. *Nature Communications* 10 (1), 1--14. [View paper.](https://www.nature.com/articles/s41467-019-08997-2)
 
 ## **Theses**
 
