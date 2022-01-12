@@ -11,8 +11,6 @@
     <loc>www.lewisajones.com/courses/example/stats/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.lewisajones.com/fieldwork/</loc>
-  </url><url>
     <loc>www.lewisajones.com/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
@@ -22,10 +20,28 @@
     <loc>www.lewisajones.com/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.lewisajones.com/post/hello-world-introducing-500-words-or-less/</loc>
-    <lastmod>2021-04-21T12:13:39+01:00</lastmod>
+    <loc>www.lewisajones.com/categories/</loc>
+    <lastmod>2021-11-10T13:32:22+01:00</lastmod>
+  </url><url>
+    <loc>www.lewisajones.com/category/fossil-record-bias/</loc>
+    <lastmod>2021-11-10T13:32:22+01:00</lastmod>
+  </url><url>
+    <loc>www.lewisajones.com/category/palaeoclimate/</loc>
+    <lastmod>2021-11-10T13:32:22+01:00</lastmod>
   </url><url>
     <loc>www.lewisajones.com/post/</loc>
+    <lastmod>2021-11-10T13:32:22+01:00</lastmod>
+  </url><url>
+    <loc>www.lewisajones.com/category/spatial-sampling/</loc>
+    <lastmod>2021-11-10T13:32:22+01:00</lastmod>
+  </url><url>
+    <loc>www.lewisajones.com/post/uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures/</loc>
+    <lastmod>2021-11-10T13:32:22+01:00</lastmod>
+  </url><url>
+    <loc>www.lewisajones.com/post/the-latitudinal-biodiversity-gradient/</loc>
+    <lastmod>2021-04-30T13:11:34+01:00</lastmod>
+  </url><url>
+    <loc>www.lewisajones.com/post/hello-world-introducing-500-words-or-less/</loc>
     <lastmod>2021-04-21T12:13:39+01:00</lastmod>
   </url><url>
     <loc>www.lewisajones.com/courses/</loc>
@@ -67,8 +83,6 @@
     <loc>www.lewisajones.com/publication/preprint/</loc>
   </url><url>
     <loc>www.lewisajones.com/authors/</loc>
-  </url><url>
-    <loc>www.lewisajones.com/categories/</loc>
   </url><url>
     <loc>www.lewisajones.com/author/lewis-a.-jones-phd/</loc>
   </url><url>
