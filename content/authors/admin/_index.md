@@ -31,7 +31,7 @@ social:
   link: https://twitter.com/LewisAlanJones
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=Rp8zhgsAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/LewisAJones
