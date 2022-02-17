@@ -25,6 +25,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 <style>
+font size="5" 
 body {
 text-align: justify}
 </style>
