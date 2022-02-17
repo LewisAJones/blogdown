@@ -39,14 +39,15 @@ content:
 
 ## **Peer-reviewed publications**
 
-#### 2021
+#### 2022
 
-1. **Lewis A. Jones** and Kilian Eichenseer. (2021) Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology*. [View paper.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) [View graphical abstract.](https://pbs.twimg.com/media/FDyMbOZXIAYX2rp?format=jpg&name=4096x4096)
-
-
-1. **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison. (2021) Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. [View paper.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) [View graphical abstract.](https://pbs.twimg.com/media/Eu-0pYiXUAEGG_A?format=jpg&name=4096x4096)
+1. **Lewis A. Jones** and Kilian Eichenseer. (2022) Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology* 50 (2), 238--242. [View paper.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) [View graphical abstract.](https://pbs.twimg.com/media/FDyMbOZXIAYX2rp?format=jpg&name=4096x4096)
 
 1. **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Daniel J Lunt. (In review) Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications*.
+
+#### 2021
+
+1. **Lewis A. Jones**, Christopher D. Dean, Philip D. Mannion, Alexander Farnsworth, Peter A. Allison. (2021) Spatial sampling heterogeneity limits the detectability of deep time latitudinal biodiversity gradients. *Proceedings of the Royal Society B* 288 (1945), 20202762. [View paper.](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2762) [View graphical abstract.](https://pbs.twimg.com/media/Eu-0pYiXUAEGG_A?format=jpg&name=4096x4096)
 
 #### 2019
 
