@@ -43,6 +43,6 @@ In our recent study, we tested the impact of the changing distribution of sampli
 ![](/Users/lewis/Documents/GitHub/blogdown/content/post/2021-11-10-uneven-spatial-sampling-and-reconstructing-global-palaeotemperatures/abstract.png)
 
 
-<font size="4" style="line-height:1">
+<font size="4" style="line-height:0.5">
 
 Lewis A. Jones and Kilian Eichenseer. (2021) Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature. *Geology*. [View here.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions)
