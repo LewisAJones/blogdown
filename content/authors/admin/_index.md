@@ -17,7 +17,7 @@ interests:
 - R enthusiast
 organizations:
 - name: Universidade de Vigo
-  url: https://paleobiogeography.org/team/
+  url: https://cim.uvigo.gal/en/
 role: Palaeobiology & Macroecology
 social:
 - icon: envelope
