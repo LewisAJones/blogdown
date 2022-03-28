@@ -35,6 +35,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/LewisAJones
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3902-8986
 superuser: true
 title: Lewis A. Jones, PhD
 ---
