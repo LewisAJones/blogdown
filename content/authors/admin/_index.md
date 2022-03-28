@@ -42,5 +42,3 @@ title: Lewis A. Jones, PhD
 I am a Palaeobiologist interested in understanding the drivers of temporal and spatial biodiversity patterns over geological time scales. To date, my research has focused on the interactions between life and the environment in deep time, and evaluating the influence of fossil record bias on perceived biodiversity patterns. A further area of my interest is the capacity of the fossil record to inform current conservation efforts.
 
 My research primarily focuses on corals, reef systems, and other marine invertebrates. However, I am also currently involved in research projects on Cenozoic mammals and the non-avian dinosaurs. In my research, I use a range of techniques and integrate tools from various disciplines including ecology and palaeoclimatology.
-
-Recently, I joined the [MAPAS Lab](https://paleobiogeography.org/) (lead by Dr Sara Varela) at the Universidade de Vigo (Spain) to investigate Phanerozoic spatial diversification dynamics.  
