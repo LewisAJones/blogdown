@@ -20,6 +20,8 @@ header:
 
 ## **Peer-reviewed publications**
 
+<font size="4"> 
+
 1. **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (In press). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications*.
 
 1. **Lewis A. Jones** and Kilian Eichenseer (2022). [Uneven spatial sampling distorts reconstructions of Phanerozoic seawater temperature.](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49132.1/609542/Uneven-spatial-sampling-distorts-reconstructions) *Geology* 50 (2), 238--242. [View graphical abstract.](https://pbs.twimg.com/media/FDyMbOZXIAYX2rp?format=jpg&name=4096x4096)
@@ -36,4 +38,4 @@ header:
 
 1. **Lewis A. Jones**. (2015). The end-Triassic mass extinction. An investigation of the British geological record: testing for the role of volcanism and ocean anoxia. Master's Thesis. *Supervisor: Dr David Bond*. 
 
-
+</font>
