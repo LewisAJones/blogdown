@@ -20,7 +20,7 @@ header:
 
 ## **Peer-reviewed publications**
 
-<font size="4"> 
+<font size="3"> 
 
 1. **Lewis A. Jones**, Philip D. Mannion, Alexander Farnsworth, Fran Bragg, Daniel J. Lunt (In press). Climatic and tectonic drivers shaped the tropical distribution of coral reefs. *Nature Communications*.
 
