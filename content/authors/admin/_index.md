@@ -42,6 +42,15 @@ superuser: true
 title: Lewis A. Jones, PhD
 ---
 
-I am a Palaeobiologist interested in understanding the drivers of temporal and spatial biodiversity patterns over geological time scales. To date, my research has focused on the interactions between life and the environment in deep time, and evaluating the influence of fossil record bias on perceived biodiversity patterns. A further area of my interest is the capacity of the fossil record to inform current conservation efforts.
+<style type="text/css">
+  body{
+  line-height: 1.8;
+  font-size: 12pt;
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 
-My research primarily focuses on corals, reef systems, and other marine invertebrates. However, I am also currently involved in research projects on Cenozoic mammals and the non-avian dinosaurs. In my research, I use a range of techniques and integrate tools from various disciplines including ecology and palaeoclimatology.
+I am a Palaeobiologist interested in understanding the drivers of temporal and spatial biodiversity patterns over geological time scales. My main research focuses on the interactions between life and the environment in deep time, and evaluating the influence of fossil record bias on perceived biodiversity patterns. A further area of my interest is the capacity of the fossil record to inform current conservation efforts.
+
+My research primarily focuses on corals, reef systems, and other marine invertebrates. However, I am also currently involved in research projects on Cenozoic mammals and the non-avian dinosaurs. In my research, I use a range of techniques and integrate tools from various disciplines including ecology, palaeoclimatology and data science.

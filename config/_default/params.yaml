@@ -62,7 +62,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -92,7 +92,7 @@ edit_page:
 show_related:
   book: true
   page: false
-  publication: true
+  publication: false
   post: true
   project: true
   event: true

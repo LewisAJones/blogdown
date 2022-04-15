@@ -26,6 +26,7 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
   
+  
 design:
   columns: '2'
 ---
